@@ -1,13 +1,4 @@
-#!/usr/bin/env node
-/**
- * Gera assets/contributions.svg — quadro animado com o total de contribuições,
- * sequência atual, maior sequência e linguagens mais usadas.
- *
- * Uso:
- *   GH_TOKEN=xxx GH_LOGIN=Sadizn node scripts/contributions-card.mjs
- *   node scripts/contributions-card.mjs --demo      (dados de exemplo, sem rede)
- */
-import { mkdir, writeFile } from 'node:fs/promises';
+
 import { dirname } from 'node:path';
 
 const LOGIN = process.env.GH_LOGIN || 'Sadizn';
@@ -15,7 +6,6 @@ const TOKEN = process.env.GH_TOKEN || process.env.GITHUB_TOKEN || '';
 const OUT = process.env.OUT || 'assets/contributions.svg';
 const DEMO = process.argv.includes('--demo');
 
-/* ───────────── utilidades ───────────── */
 const MONTHS = ['jan', 'fev', 'mar', 'abr', 'mai', 'jun', 'jul', 'ago', 'set', 'out', 'nov', 'dez'];
 const ENT = { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' };
 const esc = (s) => String(s).replace(/[&<>"']/g, (c) => ENT[c]);
@@ -37,7 +27,7 @@ const span = (a, b, nowYear) => {
 };
 const r1 = (n) => Math.round(n * 10) / 10;
 
-/* ───────────── dados (API do GitHub) ───────────── */
+
 async function api(path, body) {
   const res = await fetch(`https://api.github.com${path}`, {
     method: body ? 'POST' : 'GET',
