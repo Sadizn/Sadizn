@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=240&color=0:0d1117,50:047857,100:10b981&text=Jo%C3%A3o%20Mananga&fontColor=ffffff&fontSize=56&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Luanda%2C%20Angola&descSize=20&descAlignY=58" alt="João Mananga — Full Stack Developer" width="100%" />
 
 <a href="https://github.com/Sadizn">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=640&height=45&lines=Desenvolvedor+Full+Stack;Apps+web+com+Next.js+e+Node.js;PHP%2C+MySQL+e+PostgreSQL+no+backend;Bots+e+automa%C3%A7%C3%B5es+para+WhatsApp" alt="Desenvolvedor Full Stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=880&height=50&lines=Desenvolvedor+Full+Stack;Apps+web+com+Next.js+e+Node.js;PHP%2C+MySQL+e+PostgreSQL+no+backend;Bots+e+automa%C3%A7%C3%B5es+para+WhatsApp;A+transformar+ideias+em+produtos" alt="Desenvolvedor Full Stack" width="100%" />
 </a>
 
 <br />
@@ -20,9 +20,9 @@
 
 <br />
 
-<h2 align="center">👨‍💻 Sobre mim</h2>
+<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="34" alt="👋" align="absmiddle" /> Sobre mim</h2>
 
-<table>
+<table width="100%">
 <tr>
 <td width="58%" valign="top">
 
@@ -38,16 +38,7 @@ Construo **aplicações web completas**, do front-end ao banco de dados, além d
 </td>
 <td width="42%" valign="top">
 
-```js
-const joao = {
-  nome: "João Mananga",
-  github: "Sadizn",
-  local: "Luanda, Angola 🇦🇴",
-  modo: "Remoto 🏠",
-  foco: ["Web apps", "APIs", "Bots & automações"],
-  status: "A construir algo novo 🚀"
-};
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=700&color=34D399&background=161B22&multiline=true&repeat=true&width=380&height=190&lines=%24+whoami;%3E+Jo%C3%A3o+Mananga;%24+cat+stack.txt;%3E+PHP+%C2%B7+JS+%C2%B7+Next.js+%C2%B7+Node;%24+echo+%24STATUS;%3E+A+construir+algo+novo" alt="Terminal animado com o perfil do João" width="100%" />
 
 </td>
 </tr>
@@ -55,36 +46,34 @@ const joao = {
 
 <br />
 
-<h2 align="center">🛠️ Tecnologias</h2>
+<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="34" alt="✨" align="absmiddle" /> Tecnologias</h2>
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center"><b>Front-end</b></td>
-<td><img src="https://skillicons.dev/icons?i=html,css,js,nextjs" alt="HTML, CSS, JavaScript e Next.js" /></td>
-</tr>
-<tr>
-<td align="center"><b>Back-end</b></td>
-<td><img src="https://skillicons.dev/icons?i=nodejs,php" alt="Node.js e PHP" /></td>
-</tr>
-<tr>
-<td align="center"><b>Bancos de dados</b></td>
-<td><img src="https://skillicons.dev/icons?i=mysql,postgres" alt="MySQL e PostgreSQL" /></td>
-</tr>
-<tr>
-<td align="center"><b>Ferramentas</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,vercel" alt="Git, GitHub e Vercel" /></td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=html,css,js,nextjs,nodejs,php,mysql,postgres,git,github,vercel&perline=11" alt="HTML, CSS, JavaScript, Next.js, Node.js, PHP, MySQL, PostgreSQL, Git, GitHub e Vercel" width="100%" />
 
 </div>
 
+<table width="100%">
+<tr>
+<th width="25%">Front-end</th>
+<th width="25%">Back-end</th>
+<th width="25%">Bancos de dados</th>
+<th width="25%">Ferramentas</th>
+</tr>
+<tr>
+<td align="center">HTML · CSS · JavaScript · Next.js</td>
+<td align="center">Node.js · PHP</td>
+<td align="center">MySQL · PostgreSQL</td>
+<td align="center">Git · GitHub · Vercel</td>
+</tr>
+</table>
+
 <br />
 
-<h2 align="center">🚀 Projetos em destaque</h2>
+<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="34" alt="🚀" align="absmiddle" /> Projetos em destaque</h2>
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top">
 
@@ -111,7 +100,7 @@ Ecossistema híbrido e modular: gateway em **Node.js** (Baileys, REST API e WebS
 </tr>
 </table>
 
-<table>
+<table width="100%">
 <tr>
 <td width="33%" valign="top">
 
@@ -159,16 +148,44 @@ Página web em **HTML** com mensagens românticas, publicada na Vercel.
 
 <br />
 
-<h2 align="center">📊 Estatísticas do GitHub</h2>
+<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="34" alt="🔥" align="absmiddle" /> Contribuições</h2>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sadizn&show_icons=true&locale=pt-pt&include_all_commits=true&rank_icon=github&bg_color=0d1117&border_color=1f2937&border_radius=12&title_color=10b981&icon_color=10b981&ring_color=10b981&text_color=c9d1d9" alt="Estatísticas do GitHub de Sadizn" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadizn&layout=compact&langs_count=6&locale=pt-pt&bg_color=0d1117&border_color=1f2937&border_radius=12&title_color=10b981&text_color=c9d1d9" alt="Linguagens mais usadas" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sadizn/Sadizn/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sadizn/Sadizn/output/github-snake.svg" />
+  <img alt="Cobra a comer as contribuições do GitHub de Sadizn" src="https://raw.githubusercontent.com/Sadizn/Sadizn/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+<br /><br />
+
+<img src="https://streak-stats.demolab.com/?user=Sadizn&locale=pt_BR&background=0d1117&border=1f2937&stroke=1f2937&border_radius=12&ring=10b981&fire=10b981&currStreakNum=c9d1d9&currStreakLabel=10b981&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="Total de contribuições e sequências" width="100%" />
+
+</div>
 
 <br />
 
-<img src="https://streak-stats.demolab.com/?user=Sadizn&locale=pt_BR&background=0d1117&border=1f2937&stroke=1f2937&border_radius=12&ring=10b981&fire=10b981&currStreakNum=c9d1d9&currStreakLabel=10b981&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="Sequência de contribuições" />
+<h2 align="center">📊 Estatísticas do GitHub</h2>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sadizn&show_icons=true&locale=pt-pt&include_all_commits=true&rank_icon=github&bg_color=0d1117&border_color=1f2937&border_radius=12&title_color=10b981&icon_color=10b981&ring_color=10b981&text_color=c9d1d9" alt="Estatísticas do GitHub de Sadizn" width="100%" />
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadizn&layout=compact&langs_count=6&card_width=495&locale=pt-pt&bg_color=0d1117&border_color=1f2937&border_radius=12&title_color=10b981&text_color=c9d1d9" alt="Linguagens mais usadas" width="100%" />
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadizn&bg_color=0d1117&color=34d399&title_color=34d399&line=10b981&point=ffffff&area=true&area_color=10b981&hide_border=true&custom_title=Atividade%20de%20contribui%C3%A7%C3%B5es" alt="Gráfico de atividade de contribuições" width="100%" />
 
 </div>
 
@@ -176,7 +193,7 @@ Página web em **HTML** com mensagens românticas, publicada na Vercel.
 
 <div align="center">
 
-<h2>🤝 Vamos conversar?</h2>
+<h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" width="34" alt="🤝" align="absmiddle" /> Vamos conversar?</h2>
 
 Tens um projeto em mente ou queres trocar ideias sobre código? Manda mensagem!
 
@@ -185,6 +202,8 @@ Tens um projeto em mente ou queres trocar ideias sobre código? Manda mensagem!
 
 <br /><br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0d1117,50:047857,100:10b981" alt="" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=34D399&center=true&vCenter=true&width=880&height=40&lines=Obrigado+por+passares+por+aqui!;Vamos+construir+algo+incr%C3%ADvel+juntos" alt="Obrigado por passares por aqui" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0d1117,50:047857,100:10b981" alt="" width="100%" />
 
 </div>
